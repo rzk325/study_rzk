@@ -1,0 +1,80 @@
+test_add (test_mathfunc.TestMathFunc)
+case add(a,b) ... ok
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b) ... FAIL
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\untitled\myTest\test_mathfunc.py", line 32, in test_divide
+    self.assertEqual(2.5, mathfunc.divide(5, 2))
+AssertionError: 2.5 != 2
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+case add(a,b) ... ok
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b) ... FAIL
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\untitled\myTest\test_mathfunc.py", line 32, in test_divide
+    self.assertEqual(2.5, mathfunc.divide(5, 2))
+AssertionError: 2.5 != 2
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+case add(a,b) ... ok
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b) ... FAIL
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\untitled\myTest\test_mathfunc.py", line 32, in test_divide
+    self.assertEqual(2.5, mathfunc.divide(5, 2))
+AssertionError: 2.5 != 2
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+FAILED (failures=1)
+test_add (test_mathfunc.TestMathFunc)
+case add(a,b) ... ok
+test_minus (test_mathfunc.TestMathFunc)
+Test method minus(a, b) ... ok
+test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b) ... FAIL
+
+======================================================================
+FAIL: test_divide (test_mathfunc.TestMathFunc)
+Test method divide(a, b)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\untitled\myTest\test_mathfunc.py", line 33, in test_divide
+    self.assertEqual(2.5, mathfunc.divide(5, 2))
+AssertionError: 2.5 != 2
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+FAILED (failures=1)
